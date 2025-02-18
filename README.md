@@ -42,4 +42,4 @@ Algunas mejoras planificadas para futuras versiones:
 Este proyecto está bajo la licencia MIT.
 
 ---
-_Hecho con ❤️ por Tu Nombre_
+_Hecho por Alonso Irazoqui Placencia
